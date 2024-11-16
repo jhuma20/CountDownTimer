@@ -3,6 +3,8 @@
 A simple and intuitive countdown timer built with HTML, CSS, and JavaScript that allows users to set a specific time and countdown to zero. Perfect for managing time for various activities such as cooking, workouts, or studying.
 
 
+## [deploy](https://https://jhuma20.github.io/CountDownTimer/)
+
 
 ## Features
 - Fullscreen mode
